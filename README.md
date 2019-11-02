@@ -3,7 +3,7 @@
 Please add a link to the GitHub repo for your contest submission below. Be sure to identify your pancake topping!
 
 1. banana-stack - 
-
+2. chocolate-chip-stack - https://github.com/sternj/kubernetes-exec
 # Feedback
 
 If you have any feedback for the Critical Stack team, please 
