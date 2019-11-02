@@ -6,6 +6,7 @@ Please add a link to the GitHub repo for your contest submission below. Be sure 
 
 # Feedback
 
-If you have any feedback for the Critical Stack team, please open a GitHub issue in this repo. We'd love to hear your
+If you have any feedback for the Critical Stack team, please 
+[open a GitHub issue](https://github.com/stack-a-thon/feedback/issues/new) in this repo. We'd love to hear your
 thoughts on what went well, what we could do better, or what you might like to see next time. Thank you for your
 participation!
