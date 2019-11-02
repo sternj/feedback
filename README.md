@@ -4,7 +4,7 @@ Please add a link to the GitHub repo for your contest submission below. Be sure 
 
 1. banana-stack - 
 2. buckwheat-stack: https://github.com/stack-a-thon/feedback.git
-3. blueberry-stack - https:github.com/pujitm/critical-stackathon
+3. blueberry-stack - https://github.com/pujitm/critical-stackathon
 
 # Feedback
 
