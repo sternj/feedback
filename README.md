@@ -3,6 +3,7 @@
 Please add a link to the GitHub repo for your contest submission below. Be sure to identify your pancake topping!
 
 1. banana-stack - 
+2. buckwheat-stack: https://github.com/stack-a-thon/feedback.git
 
 # Feedback
 
