@@ -1,2 +1,11 @@
-# feedback
-Repository for submission of feedback on the Stack-a-thon
+# Stack-a-thon Entries
+
+Please add a link to the GitHub repo for your contest submission below. Be sure to identify your pancake topping!
+
+1. banana-stack - 
+
+# Feedback
+
+If you have any feedback for the Critical Stack team, please open a GitHub issue in this repo. We'd love to hear your
+thoughts on what went well, what we could do better, or what you might like to see next time. Thank you for your
+participation!
